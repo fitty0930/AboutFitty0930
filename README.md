@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Martin</h1>
+<h1 align="center">Hi 👋, my name is Martin</h1>
 <h3 align="center">I'm a web developer from Argentina</h3>
 
 - I’m currently ending **[TUDAI](https://exa.unicen.edu.ar/tudai/)** (Only supervised professional training left)
