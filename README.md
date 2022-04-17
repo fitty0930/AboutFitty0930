@@ -2,7 +2,7 @@
 <h3 align="center">I'm a web developer from Argentina</h3>
 
 - I’m currently ending **[TUDAI](https://exa.unicen.edu.ar/tudai/)** (Only supervised professional training left)
-- I’m currently working at [Bolivar Government](https://www.bolivar.gob.ar/) (administrative) and at [Taggify](https://www.taggify.net/)
+- I’m currently working at [Bolivar Government](https://www.bolivar.gob.ar/) (administrative)
 
 <p align="left">
   <h3 align="left">General-purpose programming languages : </h3>
