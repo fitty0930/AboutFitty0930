@@ -58,6 +58,6 @@
 ### Let's connect :
 
 [![Mail: Martin Aguirre](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinaguirre08@gmail.com)
-[![Linkedin: Martin Aguirre](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maguirrefittipaldi/)](https://www.linkedin.com/in/martin-aguirre-fittipaldi-52100819b/)
+[![Linkedin: Martin Aguirre](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maguirrefittipaldi/)](https://www.linkedin.com/in/maguirrefittipaldi/)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fitty0930&show_icons=true&locale=en&layout=compact" alt="fitty0930" /></p>
